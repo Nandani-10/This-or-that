@@ -1,0 +1,6 @@
+{
+  "name": "This or That",
+  "description": "A cute, playful real-time This or That game with Asker and Answerer modes, room codes, live sync, and fun reactions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
